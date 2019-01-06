@@ -1,4 +1,0 @@
-LinkedList Before Delete Operations=[10,5,20,30,40]
-LinkedList After Delete Operations=[5,20,30]
-Length=3
-LinkedList After clear=[]

@@ -1,2 +1,1 @@
-# JavaDataStructure-
-My Data Structure Practise Using Java Language.
+# Data Structure & Problem Solving Using Java
